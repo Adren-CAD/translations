@@ -1,6 +1,6 @@
 ## AdrenCAD Translations
 
-Each contributor is created below,
+Each contributor is credited below,
 
 English - IamAdren
 
